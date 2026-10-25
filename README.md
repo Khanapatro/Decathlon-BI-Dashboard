@@ -35,6 +35,8 @@
      2. Upload your image as `screenshots/dashboard.png`
      3. Change the src below to: screenshots/dashboard.png -->
 <img width="1342" height="750" alt="Screenshot 2026-10-25 123714" src="https://github.com/user-attachments/assets/d2d45611-074a-4b27-aafa-dbf59310f849" />
+<img width="1916" height="732" alt="image" src="https://github.com/user-attachments/assets/95b313fd-da2e-40dd-b7f8-fbcd6d6b8d16" />
+
 
 
 <sub><i>Retail Performance dashboard — YTD through 15 Sep, compared with the same period last year</i></sub>
